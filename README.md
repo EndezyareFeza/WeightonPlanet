@@ -4,7 +4,7 @@ A new Flutter application to build a weight calculator on different planets.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application to create a simple weight calc on some planets.
+This project is a starting point for a Flutter application to create a simple weight calculator on some planets.
 
 A few resources to get you started if this is your first Flutter project:
 
